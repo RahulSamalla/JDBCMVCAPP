@@ -1,4 +1,4 @@
-# JDBCMVCAPP foollowing the standards of MVC like Controller layer,Service layer and DAO(persistence layer) and DTO as Student Object and FACTORY METHODS ALSO BEEN IMPLEMENTED
+# JDBCMVCAPP following the standards of MVC like Controller layer,Service layer and DAO(persistence layer) and DTO as Student Object and FACTORY METHODS ALSO BEEN IMPLEMENTED
 deveoped CRUD application using servlets,jsps,HTML,CSS and JDBC  through which the student can enter his name and his personal information
 and can upload in database and correspondingly if the student want to know his/her information which is present in data base and can 
 select the corresponding operation and asks for user id through which users/students information is displayed on the screen 
